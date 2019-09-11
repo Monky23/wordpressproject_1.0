@@ -1,0 +1,15 @@
+[11/Sep/2019:19:07:20] (ℹ️): WordPress Instance Info:
+[11/Sep/2019:19:07:20] (ℹ️): Home URL : http://127.0.0.1/wordpress
+[11/Sep/2019:19:07:20] (ℹ️): Site URL : http://127.0.0.1/wordpress
+[11/Sep/2019:19:07:20] (ℹ️): WordPress Version : 5.2.3
+[11/Sep/2019:19:07:20] (ℹ️): Onboarding Version : 1.6.3
+[11/Sep/2019:19:07:20] (ℹ️): Multisite : No
+[11/Sep/2019:19:07:20] (ℹ️): Server Info : Apache/2.4.29 (Ubuntu)
+[11/Sep/2019:19:07:20] (ℹ️): PHP Version : 7.2.19-0ubuntu0.18.04.2
+[11/Sep/2019:19:07:20] (ℹ️): HTTPS : No
+[11/Sep/2019:19:07:20] (ℹ️): PHP Max Execution Time : 30
+[11/Sep/2019:19:07:20] (ℹ️): PHP Max Input Vars : 1000
+[11/Sep/2019:19:07:20] (ℹ️): Max Upload Size : 2097152
+[11/Sep/2019:19:07:20] (ℹ️): Plugins:
+[11/Sep/2019:19:07:20] (ℹ️): [PLUGIN] Elementor : v2.7.1 (Elementor.com)
+[11/Sep/2019:19:07:20] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.8 (Themeisle)
